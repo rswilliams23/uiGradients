@@ -454,4 +454,11 @@
 {
     "name": "Back To Earth",
     "colors": ["#00C9FF", "#92FE9D"]
-}]
+}
+,
+{
+    "name": "Blue Cloud",
+    "colors": ["#FFFFFF", "#0085CF"]
+}
+
+]
